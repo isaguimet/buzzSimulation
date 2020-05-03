@@ -7,6 +7,6 @@ In this game, players are given 2 options:
 * **Game Simulation**: For this option, players will be given the prompt to enter their preferred rule pattern and the maximum number they want this simulation to go until. Once they click enter, the simulation will show them the game being played until the maximum number is reached. When this happens, the simulation will end and thus the program will end.
 
 * **Game Play**: For this option, players play against each other by entering their number. The game ends when a player enters the wrong number. Note: the rule pattern for this game play is set to be 7. This means that numbers that contain a 7 or are divisible by 7 will be the numbers that players will have to say "buzz" for.
-  * Not implemented fully yet!
+  * Note: user is only allowed to enter numbers, program inserts "buzz" word when needed.
 
 Enjoy the game!
